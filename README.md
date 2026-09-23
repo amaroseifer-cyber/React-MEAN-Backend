@@ -2,7 +2,7 @@
 
 Backend que creamos en mi curso de React: de cero a experto
 
-## Dev
+## Developer
 
 1. instalar dependencias npm install
 2. Clonar el archivo .env.template y renombrarlo a .env
